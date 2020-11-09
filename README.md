@@ -15,7 +15,7 @@ Investigaciones y estudios realizados por DataSolution
 
 ------------------------------------------------------------------------------------------------------------------------
 ### English version
-# Project of investigations
+# Investigations projects
 Investigations and studies conducted by DataSolution
 
 ## Owners:
